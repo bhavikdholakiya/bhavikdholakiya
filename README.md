@@ -15,7 +15,6 @@
 
 -   📝 Currently an **Expert** at CodeForces, and **5⭐ Coder** at Codechef.
 -   🏆 Secured **Rank 66** in **ICPC Gwalior - Pune Regionals**.
--   ⏫ **JPMC Code for Good** Winner 2022.
 -   🚁 Secured **Global Rank 16** in Snackdown 2021 Round 1B conducted by CodeChef.
 -   ⭐ Secured **Global Rank 329/ AIR 121 (Score 100/100)** in Google Codejam Round A.
 -   🥇 Best Global Rank in Google Kickstart – **683 (AIR 494)**.
