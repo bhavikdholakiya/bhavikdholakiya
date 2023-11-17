@@ -45,14 +45,14 @@
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white) -->
 
-## 📈 Stats
+<!-- ## 📈 Stats
 
 <div align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=bhavikdholakiya&row=1&column=6&margin-h=8&theme=darkhub&count_private=true&margin-w=15&no-frame=true" alt="profile trophies" />
     <br />
     <br />
     <img src="https://komarev.com/ghpvc/?username=bhavikdholakiya&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22bhavikdholakiya" alt="visitors">
-</div>
+</div>  -->
 
 ## 🔗 Links
 
